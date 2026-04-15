@@ -1,6 +1,7 @@
 # 🚧 AI-Based Road Damage Detection System
 
 An intelligent web-based system that detects road surface defects such as cracks and potholes using a deep learning model (YOLO) and displays results with GPS location on a dashboard.
+Dashboard link: https://roadguard-ai-780515832137.us-west1.run.app/
 
 ---
 
