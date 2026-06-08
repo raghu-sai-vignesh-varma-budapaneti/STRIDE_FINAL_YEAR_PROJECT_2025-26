@@ -2,6 +2,7 @@
 
 An intelligent web-based system that detects road surface defects such as cracks and potholes using a deep learning model (YOLO) and displays results with GPS location on a dashboard.
 Dashboard link: https://roadguard-ai-780515832137.us-west1.run.app/ or https://road-guard-k9ipr6p5m-raghus-projects-05540d39.vercel.app/
+ Dashboard Website Resource repository : https://github.com/raghu-sai-vignesh-varma-budapaneti/Road-guard-.git
 
 ---
 
